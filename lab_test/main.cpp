@@ -17,7 +17,7 @@ int main() {
 
     int result = myFunction(3, 2);
     
-    cout <<result<< endl;
+//    cout <<result<< endl;
     
     return 0;
 }
